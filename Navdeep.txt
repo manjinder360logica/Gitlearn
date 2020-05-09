@@ -1,1 +1,1 @@
-add file to repository
+add file to repository using push command
